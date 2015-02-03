@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Orden</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="quesadillas_txt">Quesadillas</string>
+    <string name="gorditas_txt">Gorditas</string>
+    <string name="tacos_txt">Tacos</string>
+    <string name="btn_ordenar">Ordenar</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
